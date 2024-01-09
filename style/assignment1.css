@@ -3,7 +3,7 @@
     text-align: center;
     color: white;
     flex-shrink: 0;
-   
+
 }
 
 .center {
@@ -19,7 +19,16 @@
     font-style: normal;
     font-weight: 700;
     line-height: 30px;
-#bg {
-    border-radius: 16px;
-    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
-}
+
+    #bg {
+        border-radius: 16px;
+        background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 1600px;
+        height: 7335px;
+    }
